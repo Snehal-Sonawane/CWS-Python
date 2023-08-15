@@ -1,0 +1,5 @@
+s=open("abc.txt","r")
+r=s.read()
+print(r)
+b=r.split()
+print(b)
