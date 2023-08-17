@@ -1,6 +1,6 @@
 # Python Learning Repository
 
-![python_128x128](https://github.com/Snehal-Sonawane/CWS-Python/assets/142329906/29eb781e-0569-4e98-86ed-f0fbda98044a)
+![python_128x128](https://github.com/Snehal-Sonawane/CWS-Python/assets/142329906/f2b06515-9f49-4b2c-9cea-ec81cccc38ad)
 
 
 Welcome to my Python Learning Repository! This repository contains a collection of Python code files organized on a weekly basis. Each week's folder covers different topics related to Python, including Python basics, loops, functions, lists, and much more. This README will help you navigate through the repository and understand its structure.
